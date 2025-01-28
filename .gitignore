@@ -3,8 +3,11 @@ fast_notes.txt
 Jupyters
 
 Cypher-Arena-RAG-LLM/prompts
+Cypher-Arena-RAG-LLM/vector_store
 Cypher-Arena-RAG-LLM/generated_topics
 Cypher-Arena-RAG-LLM/temator_data
+
+bin
 
 RobustVideoMatting/*.pth
 *.Identifier

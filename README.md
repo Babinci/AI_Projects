@@ -8,5 +8,5 @@ Current state:
 
 Plan:
 Integrate various models:
-- in admin panel for remote generation (video processing, image generation)
+- in django admin panel for remote generation&processing (video processing, image generation)
 - for reaper processing (denoising, dereverberation)
