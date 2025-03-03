@@ -54,3 +54,23 @@ migrations/
 *.ckpt
 *.safetensors
 *.bin
+
+
+# FAISS index files
+*.index
+*.faiss
+*.idx
+*.ivf
+*.faiss.index
+*.bin
+
+# FAISS temporary files
+*.faiss.tmp*
+
+# FAISS build directories
+faiss/build/
+faiss_build/
+
+# Python-specific FAISS bindings
+*_faiss.so
+*_faiss.pyd
