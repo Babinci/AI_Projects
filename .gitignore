@@ -30,6 +30,11 @@ __pycache__/
 migrations/
 **/migrations/**
 
+# SQLite database files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
 # JSON files
 *.json
 *.txt
