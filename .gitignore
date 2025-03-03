@@ -8,6 +8,49 @@ Cypher-Arena-RAG-LLM/generated_topics
 Cypher-Arena-RAG-LLM/temator_data
 
 bin
+credentials
 
 RobustVideoMatting/*.pth
 *.Identifier
+
+LLM_Projects/My_RAG_Projects/Jobassistant_code_helper/rag_cache
+LLM_Projects/ottomator-agents_external_repo
+
+
+# Python compiled files
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django/Flask/etc migrations
+*/migrations/*
+**/migrations/*.py
+**/migrations/*.pyc
+migrations/
+**/migrations/**
+
+# JSON files
+*.json
+*.txt
+# Python compiled files
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django/Flask/etc migrations
+*/migrations/*
+**/migrations/*.py
+**/migrations/*.pyc
+migrations/
+**/migrations/**
+
+.webui_secret_key
+
+# PyTorch model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin

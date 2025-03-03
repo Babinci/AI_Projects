@@ -1,0 +1,23 @@
+# Project Configuration
+
+## Tech Stack
+- Next.js 14+ with App Router
+- Tailwind CSS for styling
+- docker usage
+- Python for ai
+- GitHub for version control
+
+## Project Structure
+
+
+## Database Migrations
+For now jsons and faiss vectors, considering some projecting best solution with development
+
+## Development Workflow
+- Cline helps write and review code changes
+
+## Security
+DO NOT read or modify:
+- .env files
+- **/config/secrets.*
+- Any file containing API keys or credentials

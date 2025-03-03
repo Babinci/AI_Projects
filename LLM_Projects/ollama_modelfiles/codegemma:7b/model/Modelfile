@@ -1,0 +1,2 @@
+FROM codegemma
+PARAMETER num_ctx 8192
