@@ -2,10 +2,25 @@
 
 ## Current Work Focus
 
-Agentic RAG development, LLM, Ollama pipelines
-- for my freestyle app
-- to create ai specialists with low requirement of hardware, that exceed in their tasks
-- enhanced techniques of long context memory agents even with lower models
+### LLM & Agents Development
+- Agentic RAG development for freestyle app
+- MCP servers integration with Claude Desktop
+- Creating AI specialists with low hardware requirements
+- Enhanced techniques for long context memory agents
 
-Audio dereverberation
-Video Greenscreening
+### Audio Processing
+- Audio dereverberation models and pipelines
+
+### Video Processing
+- Video greenscreening implementation
+
+### Infrastructure Transition
+- Migrating from Django DRF to FastAPI + Supabase
+- Integration of OpenManus for orchestration
+- MCP servers configuration and deployment
+
+## Immediate Tasks
+- Refactor memory-bank content
+- Clean up repository (remove faiss vectors)
+- Plan FastAPI backend structure
+- Configure additional MCP servers

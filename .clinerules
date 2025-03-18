@@ -1,11 +1,8 @@
 # Project Configuration
 
 ## Tech Stack
-- Next.js 14+ with App Router
-- Tailwind CSS for styling
-- docker usage
-- Python for ai
-- GitHub for version control
+- docker 
+- Python 
 
 ## Project Structure
 

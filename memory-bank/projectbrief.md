@@ -2,4 +2,11 @@
 
 ## Core Requirements and Goals
 
-It is AI repository to suplement my various needs and also developing bussinesses that people really need and wish to pay a lot of money
+This AI repository is designed to supplement various needs and develop businesses that people genuinely need and are willing to pay for. Key objectives include:
+
+- Building AI-powered solutions for a variety of use cases
+- Creating profitable AI projects and services
+- Developing AI specialists with low hardware requirements
+- Implementing enhanced memory techniques for AI agents
+- Supporting artistic content creation
+- Optimizing business processes through AI
